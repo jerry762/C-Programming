@@ -1,0 +1,2 @@
+# simple games in c
+ 
